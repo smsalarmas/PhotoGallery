@@ -1,0 +1,5 @@
+Pasos:
+Laravel
+
+1.- Instalar Composer 
+Este comando me funciono para windows: php -r "readfile('https://getcomposer.org/installer');" | php

@@ -1,0 +1,7 @@
+ {
+     "host": "iweb.ubicatuauto.com",
+     "user": "*****",
+     "pass": "*****!",
+     "dbname": "PhotoGallery",
+     "Debug": true
+ }
